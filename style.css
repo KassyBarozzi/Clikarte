@@ -1,8 +1,16 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  background: black;
+header {
+	background: #fbe23f;
+	padding: 10px 0;
+	
+
 }
-h1 {
-  font-weight:bold;
+
+h1{ 
+	margin: 10px;
+	padding: 2px;
+	font-size: 2em;
+	font-weight: bold; 
+	font-family: 'Rubik Distressed', cursive;
+
+	
+}
